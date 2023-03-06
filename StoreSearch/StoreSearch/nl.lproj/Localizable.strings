@@ -1,0 +1,47 @@
+//
+//  Localizable.strings
+//  StoreSearch
+//
+//  Created by Nick "Fox" Borer on 03/04/2023.
+//
+//
+
+/* Localized kind: Album */
+"Album" = "Album";
+/* Localized kind: Software */
+"App" = "App";
+/* Localized kind: Audio Book */
+"Audio Book" = "Audio Boek";
+/* Localized kind: Book */
+"Book" = "Boek";
+/* Localized kind: E-Book */
+"E-Book" = "E-Boek";
+/* Localized Price: Free */
+"Free" = "Free";
+/* Localized kind: Feature Movie */
+"Movie" = "Film";
+/* Localized kind: Music Video */
+"Music Video" = "VideoClip";
+/* Localized Price: Not Found */
+"Not Found" = "Niets gevonden";
+/* Localized Label Text: Nothing Found */
+"Nothing Found" = "Nothing Found";
+/* Localized Title: OK */
+"OK" = "OK";
+/* Localized kind: Podcast */
+"Podcast" = "Podcast";
+/* Localized kind: App */
+"Software" = "Software";
+/* Localized kind: Song */
+"Song" = "Liedje";
+/* Localized Message:  There was an error accessing the iTunes Store. */
+"There was an error accessing the iTunes Store." = "Er ging iets fout bij het communiceren met de iTunes winkel.  Probeer het nog eens.";
+/* Localized kind: TV Episode */
+"TV Episode" = "TV Serie";
+/* Localized Artist Name Label: Unknown
+ Localized Artist Name: Unknown */
+"Unknown" = "Onbekend";
+/* Localized Title: Whoops... */
+"Whoops..." = "Foutje...";
+/* Search Box Terms */
+"(Artist Name, Song, Genre, Album...)" = "(Artiest Name, Liedje, Genre, Album...)";

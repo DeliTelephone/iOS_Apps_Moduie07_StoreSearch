@@ -1,0 +1,37 @@
+
+/* Class = "UIButton"; configuration.title = "$ 9.99"; ObjectID = "ADb-3z-uLn"; */
+"ADb-3z-uLn.configuration.title" = "$ 9.99";
+
+/* Class = "UILabel"; text = "Type:"; ObjectID = "Eg8-sN-Ro9"; */
+"Eg8-sN-Ro9.text" = "Soort:";
+
+/* Class = "UILabel"; text = "Kind Value"; ObjectID = "IBN-uX-gCH"; */
+"IBN-uX-gCH.text" = "Kind Value";
+
+/* Class = "UISegmentedControl"; Vyu-Xe-uRZ.segmentTitles[0] = "All"; ObjectID = "Vyu-Xe-uRZ"; */
+"Vyu-Xe-uRZ.segmentTitles[0]" = "Alles";
+
+/* Class = "UISegmentedControl"; Vyu-Xe-uRZ.segmentTitles[1] = "Music"; ObjectID = "Vyu-Xe-uRZ"; */
+"Vyu-Xe-uRZ.segmentTitles[1]" = "Muziek";
+
+/* Class = "UISegmentedControl"; Vyu-Xe-uRZ.segmentTitles[2] = "Software"; ObjectID = "Vyu-Xe-uRZ"; */
+"Vyu-Xe-uRZ.segmentTitles[2]" = "Software";
+
+/* Class = "UISegmentedControl"; Vyu-Xe-uRZ.segmentTitles[3] = "E-Books"; ObjectID = "Vyu-Xe-uRZ"; */
+"Vyu-Xe-uRZ.segmentTitles[3]" = "E-Boeken";
+
+/* Class = "UILabel"; text = "Artist Name"; ObjectID = "W1w-66-KO5"; */
+"W1w-66-KO5.text" = "Naam van Artiest";
+
+/* Class = "UILabel"; text = "Genre Value"; ObjectID = "e6w-6u-LLR"; */
+"e6w-6u-LLR.text" = "Genre Value";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iz2-rd-aaq"; */
+"iz2-rd-aaq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Genre:"; ObjectID = "skf-jo-DU8"; */
+"skf-jo-DU8.text" = "Genre:";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "u8F-Yn-rlm"; */
+"u8F-Yn-rlm.text" = "Name";
+
